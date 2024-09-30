@@ -5,7 +5,7 @@
 Το back-end μας είναι επίσης γραμμένο σε Javascript, και απαντάει σε όλα σχεδόν τα requests με [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON#examples) objects. Περισσότερα για το backend μόλις μπεις στην Givelink 😉
 
 ## Η Άσκηση
-Φτιάξε μια NextJS εφαρμογή (ακολουθώντας τα official NextJS docs) που να χρησιμοποιεί [axios](https://axios-http.com/docs/intro) (ένα node package) για να κάνει API request στο [https://be.givelink.app/data](https://be.givelink.app/data) και να προβάλει την πληροφορία προϊόντων σε μια σελίδα. Η σελίδα να έχει μορφή NxN grid, με κουτάκια που δείχνουν το κάθε προιον. Όταν ο χρήστης κάνει hover ενα προιον, αυτό θα πρέπει να αλλάζει (ελαφρώς) χρωμα για να δεινει feedback στον χρήστη οτι ειναι clickable. Υπάρχουν 300+ προϊόντα στη λίστα, αλλά θα πρέπει να προβάλλονται **μόνο τα ενεργά: `product.active = true`**. Έχεις 1 εβδομάδα να μας στείλεις τα παραδοτέα.
+Φτιάξε μια NextJS εφαρμογή (ακολουθώντας τα official NextJS docs) που να χρησιμοποιεί [axios](https://axios-http.com/docs/intro) (ένα node package) για να κάνει API request στο [https://be.givelink.app/data](https://be.givelink.app/data) και να προβάλει την πληροφορία προϊόντων σε μια σελίδα. Η σελίδα να έχει μορφή A x B grid, με κουτάκια που δείχνουν το κάθε προιον. Όταν ο χρήστης κάνει hover ενα προιον, αυτό θα πρέπει να αλλάζει (ελαφρώς) χρωμα για να δεινει feedback στον χρήστη οτι ειναι clickable. Υπάρχουν 300+ προϊόντα στη λίστα, αλλά θα πρέπει να προβάλλονται **μόνο τα ενεργά: `product.active = true`**. Έχεις 1 εβδομάδα να μας στείλεις τα παραδοτέα.
 
 ### Guidelines
 1. Ξεκίνα με κάτι απλό (πχ μια hello world σελίδα σε NextJS), και μετά πρόσθεσε σιγά-σιγά πράγματα
