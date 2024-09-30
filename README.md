@@ -33,7 +33,7 @@
     Παρατήρησε τα εξής: το products δεν είναι array, αλλα object/map (μπορείς να το μετατρέψεις σε array με javascript ομως αν σου χρειαστεί!). Τα ενεργά προϊόντα είναι πάνω από 100.
 4. Ξεκίνα από τα docs και επέστρεφε εκεί όταν κολλάς. Σε όλα. NextJS, React, Axios, ακόμα και Javascript docs θα σου χρειαστούν όλα. Σε ότι αφορά vanilla web development (JS, HTML, CSS) προτείνουμε τα [MDN Docs](https://developer.mozilla.org/en-US/docs/Web)
 5. Για το κάθε προιόν πρόβαλε τη φωτογραφία του, το όνομά του και τη τιμή του, μέσα στο κουτάκι. Προσπάθησε να το κάνεις όσο πιο όμορφο μπορείς.
-6. πρόσεξε οτι το `product.imagePath` είναι σχετικό path, μια ενδεικτική τιμή είναι `my-gusto-ntolmadakia-gialantzi-190gr.jpg` αλλά εννοείται [https://be2.givelink.app/images/products/my-gusto-ntolmadakia-gialantzi-190gr.jpg](https://be2.givelink.app/images/products/my-gusto-ntolmadakia-gialantzi-190gr.jpg)
+6. πρόσεξε οτι το `product.imagePath` είναι σχετικό path, μια ενδεικτική τιμή είναι `my-gusto-ntolmadakia-gialantzi-190gr.jpg` αλλά εννοείται [https://be.givelink.app/images/products/my-gusto-ntolmadakia-gialantzi-190gr.jpg](https://be.givelink.app/images/products/my-gusto-ntolmadakia-gialantzi-190gr.jpg)
 
 ### Bonus Points
 Η άσκηση είναι η παραπάνω, αλλά αν νιώθεις πολύ άνετα με τα concepts, μπορείς να μας δείξεις παραπάνω skills χρησιμοποιώντας extra τεχνολογίες:
